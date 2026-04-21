@@ -11,13 +11,13 @@ and writes it to a structured Google Sheet -- one tab per team, organized by pla
 - Categorizes every player as: Starter, Bench, Taxi Squad, or IR
 
 ## Built For
-Infinity Stoneds -- a 12-team half-PPR dynasty league on Sleeper
+12-team half-PPR dynasty league on Sleeper
 
 ## Setup
 1. Open Google Sheets and go to Extensions > Apps Script
 2. Paste the contents of RosterSync.gs
 3. Replace the leagueId variable with your Sleeper league ID
-4. Run updateInfinityStonedsRosters()
+4. Run updateSleeperDynastyRosters()
 5. Authorize the script when prompted
 
 ## Tech Used
